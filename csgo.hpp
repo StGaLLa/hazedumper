@@ -4,7 +4,6 @@
 // 2021-02-26 13:19:19.634289600 UTC
 
 namespace hazedumper {
-constexpr ::std::int64_t timestamp = 1614345559;
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB378;
